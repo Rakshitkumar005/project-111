@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(245, 109, 175);
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+.name_of_object{
+    color: white;
+    font-size: 20;
+}
